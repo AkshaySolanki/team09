@@ -1,0 +1,2 @@
+[10-Jan-2019 04:36:46 UTC] PHP Fatal error:  Call to undefined function wp_enqueue_stle() in /home/homepower/public_html/wp/wp-content/themes/iankwood/functions.php on line 110
+[10-Jan-2019 04:37:04 UTC] PHP Fatal error:  Call to undefined function wp_enqueue_stle() in /home/homepower/public_html/wp/wp-content/themes/iankwood/functions.php on line 110
